@@ -3,7 +3,9 @@
 Full-stack collaborative task management app: JWT auth, SQLite (Prisma), Express REST API, and a React single-page UI (Vite). Project creators become **ADMIN** and can invite **MEMBER** users by email, manage tasks end-to-end, and view the dashboard; members see tasks relevant to them and may update only tasks assigned to them.
 
 🚀 Live Demo
+
 Frontend (App): https://task-manager-brown-psi.vercel.app
+
 Backend (API): https://taskmanager-production-5715.up.railway.app
 
 ## Prerequisites
